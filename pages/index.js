@@ -5,6 +5,7 @@ function Home(){
            <h3>Aplicação comando git --amend </h3> 
            <p> Novo teste</p>
            <P>!!!!!!!!</P>
+           <p>UAO!!</p>
 }
 
 export default Home;
